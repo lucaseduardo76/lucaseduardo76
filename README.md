@@ -1,7 +1,7 @@
 ### Oi Eu sou o Lucas!!! 👋
 
 - 🔭 Atualmente estou trabalhando Desenvolvimento Front-end
-- 🌱 Atualmente estudando Kotlin
+- 🌱 Atualmente estudando Flutter 
 
 <div align="center">
   <a href="https://github.com/lucaseduardo76">
@@ -18,7 +18,7 @@
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="Lucas-Boostsrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
 </div>
 
 ##

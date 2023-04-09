@@ -1,7 +1,7 @@
 ### Oi Eu sou o Lucas!!! 👋
 
 - 🔭 Atualmente estou trabalhando Desenvolvimento Front-end
-- 🌱 Atualmente estudando Flutter 
+- 🌱 Atualmente estudando React Native 
 
 <div align="center">
   <a href="https://github.com/lucaseduardo76">

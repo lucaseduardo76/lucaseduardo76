@@ -5,9 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/lucaseduardo76/">
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=lucaseduardo76&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-
-  <img height="180em" width="45%" src=""https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"/>
     
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaseduardo76&layout=compact&langs_count=7&theme=transparent"/>

@@ -1,6 +1,6 @@
 ### Oi Eu sou o Lucas!!! 👋
 
-- 🔭 Atualmente estou trabalhando Desenvolvimento Front-end
+- 🔭 Atualmente estou trabalhando Desenvolvimento Full-stack
 - 🌱 Atualmente estudando PHP
 
 <div align="center">

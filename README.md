@@ -1,7 +1,6 @@
 ### Oi Eu sou o Lucas!!! 👋
 
-- 🔭 Atualmente estou trabalhando Desenvolvimento Full-stack
-- 🌱 Atualmente estudando PHP
+- 🌱 Atualmente estudando JAVA
 
 <div align="center">
   <a href="https://github.com/lucaseduardo76/">
@@ -20,7 +19,6 @@
   <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="LucasCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lucas-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="Lucas-Boostsrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
  </div>
 

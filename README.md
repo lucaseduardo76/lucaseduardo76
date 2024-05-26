@@ -8,7 +8,7 @@
   <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=lucaseduardo76&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"/>
     
-  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaseduardo76&layout=compact&langs_count=7&theme=transparent"/>
+  <img height="180em" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaseduardo76&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -29,8 +29,6 @@
   <a href="https://www.instagram.com/lucas_eduardo76/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ilucasesds@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
- 
-  ![Snake animation](https://github.com/lucaseduardo76/lucaseduardo76/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 

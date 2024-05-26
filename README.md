@@ -5,10 +5,10 @@
 <div align="center">
   <a href="https://github.com/lucaseduardo76/">
   
-  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=lucaseduardo76&show_icons=true&theme=dark"
+  <img height="180em" width="20%" src="https://github-readme-stats.vercel.app/api?username=lucaseduardo76&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"/>
     
-  <img height="180em" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaseduardo76&layout=compact&langs_count=7&theme=transparent"/>
+  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaseduardo76&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 
 <div style="display: inline_block"><br>

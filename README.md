@@ -1,6 +1,6 @@
 ### Oi Eu sou o Lucas!!! 👋
 
-- 🌱 Atualmente estudando JAVA
+- 🌱 Atualmente estudando JAVA - SpringBoot
 
 <div align="center">
   <a href="https://github.com/lucaseduardo76/">

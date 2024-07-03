@@ -33,3 +33,9 @@
  
 </div>
 
+<div style="text-align: center;">
+
+  ![Snake animation](https://raw.githubusercontent.com/lucaseduardo76/lucaseduardo76/output/github-contribution-grid-snake-dark.svg)
+  
+</div>
+
